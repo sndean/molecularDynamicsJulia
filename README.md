@@ -1,7 +1,7 @@
 # molecularDynamicsJulia
 
 ## What
-This repository contains Julia scripts I wrote for running and processing replica exchange molecular dynamics (REMD) runs in 2014. Before this, everything was write in Bash (some of which I've also uploaded).
+This repository contains Julia scripts I wrote for running and processing replica exchange molecular dynamics (REMD) runs in 2014. Before this, everything was written in Bash (some of which I've also uploaded).
 
 ## Documentation
 I'll try to add some documentation, but please be aware that these scripts were written when:
