@@ -1,3 +1,5 @@
+![](https://github.com/sndean/molecularDynamicsJulia/raw/master/readdcd_screen.png)
+
 # molecularDynamicsJulia
 
 ## What
