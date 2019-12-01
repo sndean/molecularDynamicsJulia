@@ -1,9 +1,8 @@
 # molecularDynamicsJulia
 
+![Alt text](readdcd_screen.png)
 
-![](https://github.com/sndean/molecularDynamicsJulia/raw/master/readdcd_screen.png)
-
-![](https://github.com/sndean/molecularDynamicsJulia/raw/master/myplot.svg)
+![Alt text](myplot.svg)
 
 ## What
 
